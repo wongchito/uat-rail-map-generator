@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/uat-rail-map-generator/precache-manifest.803bb8af8338de7d93fa7b1b95f94538.js"
+  "/uat-rail-map-generator/precache-manifest.156c56291d7a7baa7f88d289d41b90b0.js"
 );
 
 self.addEventListener('message', (event) => {
